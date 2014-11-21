@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/ch15_meta_algorithms/counting_inversions.15.2/spec/counting_inversions_spec.js" />
+        <item url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/enum.js" />
+        <item url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/merge_by_enum.js" />
+        <item url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/spec/loop_spec.js" />
+        <item url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/drawing_skyline.js" />
+        <item url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/spec/drawing_skyline_spec.js" />
+        <item url="file://$PROJECT_DIR$/ch15_meta_algorithms/counting_inversions.15.2/count_inversions.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ch15_meta_algorithms/counting_inversions.15.2/spec/counting_inversions_spec.js" />
+      <root url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/enum.js" />
+      <root url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/merge_by_enum.js" />
+      <root url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/spec/loop_spec.js" />
+      <root url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/drawing_skyline.js" />
+      <root url="file://$PROJECT_DIR$/ch15_meta_algorithms/counting_inversions.15.2/count_inversions.js" />
+      <root url="file://$PROJECT_DIR$/ch15_meta_algorithms/drawing_the_skyline.15.1/js/spec/drawing_skyline_spec.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
